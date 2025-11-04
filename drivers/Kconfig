@@ -236,4 +236,6 @@ source "drivers/energy_model/Kconfig"
 source "drivers/semc/Kconfig"
 
 source "drivers/lindroid-drm/Kconfig"
+
+source "drivers/lindroid-drm/Kconfig"
 endmenu
